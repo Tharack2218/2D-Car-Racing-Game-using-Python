@@ -1,0 +1,12 @@
+{
+  "Debug": false,
+  "Resolution": [
+    640,
+    360
+  ],
+  "Screen": 0,
+  "Menu animations": true,
+  "Mute volume": false,
+  "Music volume": 0.04,
+  "Sfx volume": 0.37
+}
